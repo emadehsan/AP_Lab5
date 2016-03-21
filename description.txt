@@ -1,0 +1,9 @@
+GitHub link:
+    https://github.com/emadehsan/AP_Lab5.git
+    
+    
+Description:
+    1. Insert CSV data to Database
+    2. Compute Distances via Great Cicle DIstance formula
+    3. Find near by cities
+    
